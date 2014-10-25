@@ -1,4 +1,5 @@
 ###Interview details / summary / story shared by NTU SCE student
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/lushl9301/TODO-Interview?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Please follow the following format:
 
