@@ -137,6 +137,9 @@
 
 ###Embedded System - Microcontroller & Microprocessor
 
+* [Embedded System On Wiki](http://en.wikipedia.org/wiki/Embedded_system)
+* [μC/OS-III](http://micrium.com/books/ucosiii/)
+
 ##Other Topics
 
 ###Computer Security
