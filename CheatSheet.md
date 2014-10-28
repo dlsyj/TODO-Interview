@@ -135,10 +135,7 @@
 * [PID controller on Wikipedia](http://en.wikipedia.org/wiki/PID_controller)
 * [Good Video Illustration](https://www.youtube.com/playlist?list=PLUMWjy5jgHK20UW0yM22HYEUTMJfla7Mb)
 
-###Microcontroller & Microprocessor
-
-###Embedded System
-
+###Embedded System - Microcontroller & Microprocessor
 
 ##Other Topics
 
