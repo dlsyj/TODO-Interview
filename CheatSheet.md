@@ -10,6 +10,7 @@
 
 ##Math
 * [Math Notes by Paul](http://tutorial.math.lamar.edu/sitemap.aspx)
+* [Probability and Statistics](http://ucla.jamesyxu.com/wp-content/uploads/2011/08/A-probability-and-statistics-cheatsheet.pdf)
 
 ##algorithm
 * [bigo](http://bigocheatsheet.com/)
